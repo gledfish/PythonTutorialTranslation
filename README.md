@@ -1,5 +1,5 @@
 # Python教程翻译
-**这个项目主要翻译[https://www.pythontutorial.net/](https://www.pythontutorial.net/)的 Python 教程**
+**这个项目主要翻译[https://www.pythontutorial.net](https://www.pythontutorial.net)的 Python 教程**
 本来打算自己写一个教程，最终发现写出来的内容终究不如别人，所以决定翻译。由于译者才疏学浅，难免翻译的有些许瑕疵，如果有任何问题欢迎随时联系我进行批评指正：2076577077@qq.com。
 ---
 ---
